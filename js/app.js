@@ -63,3 +63,5 @@ const galleryItems = [
     description: 'Lighthouse Coast Sea',
   },
 ];
+
+export { galleryItems };

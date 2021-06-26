@@ -25,6 +25,10 @@ body {
   color: #212121;
 }
 
+body.modal-open {
+  overflow: hidden;
+}
+
 .gallery {
   display: grid;
   width: 1200px;
